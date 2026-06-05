@@ -7,6 +7,13 @@ RowLow52HE is a 50% Hall-effect keyboard based on the [HE60](https://github.com/
 
 ---
 
+## Build Guide  
+
+https://note.com/sam1dare/n/naa1372ecf801 <br>
+(Japanese text only.)  
+
+---
+
 # HE60 (Original Project)
 
 Below is the original README from the HE60 project, which this keyboard is based on.
