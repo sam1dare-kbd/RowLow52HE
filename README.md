@@ -1,7 +1,9 @@
 # RowLow52HE
 
-RowLow52HE is a 50% Hall-effect keyboard based on the [HE60](https://github.com/peppapighs/HE60) project. 
+RowLow52HE is a 50% Hall-effect keyboard based on the [HE60](https://github.com/peppapighs/HE60) project. <br>
 
+RowLow52HEは、HE60プロジェクトをベースにして設計した50%の磁気キーボードです。<br>
+<br>
 
 ![RowLow52HE](https://github.com/sam1dare-kbd/RowLow52HE/blob/main/doc/rowlow52he.jpg)
 
