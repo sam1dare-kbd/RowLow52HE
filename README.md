@@ -12,7 +12,7 @@ RowLow52HEは、HE60プロジェクトをベースにして設計した50%の磁
 # Build Guide  
 
 https://note.com/sam1dare/n/naa1372ecf801 <br>
-(Currently available in Japanese only.)
+(Japanese text only.)
 
 ---
 
