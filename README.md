@@ -7,10 +7,20 @@ RowLow52HE is a 50% Hall-effect keyboard based on the [HE60](https://github.com/
 
 ---
 
-## Build Guide  
+# Build Guide  
 
 https://note.com/sam1dare/n/naa1372ecf801 <br>
 (Japanese text only.)  
+
+---
+
+# Important Notes 
+
+This keyboard uses magnetic sensors and may become warm around the MCU during operation. <br>
+If you notice abnormal heat generation or unexpected behavior, stop using the device and inspect it before further use.<br><br>
+
+本キーボードは磁気センサーを使用しているため、使用環境によってはMCU周辺が温かくなる場合があります。<br>
+異常な発熱や動作不良が発生した場合は、使用を中止してください。
 
 ---
 
